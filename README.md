@@ -1,3 +1,9 @@
+# Counter App
+
+This is a simple web app with a reactive component that represents a dynamic counter web page. Users can increment or
+decrement a counter and the total on the Nav bar will change accordingly. The buttons will also activate and deactivate
+if the counter reaches 0.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
